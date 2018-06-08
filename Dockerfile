@@ -1,5 +1,5 @@
-From alpine
+From registry.cn-hangzhou.aliyuncs.com/zhongweixiao/dubbo-consumer:20180601
 
-CMD ["/noti"]
+ADD ./
 
 EXPOSE 60080

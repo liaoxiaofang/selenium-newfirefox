@@ -1,5 +1,3 @@
-From registry.cn-hangzhou.aliyuncs.com/zhongweixiao/dubbo-consumer:20180601
-
-ADD ./
+FROM openjdk:8-jre
 
 EXPOSE 60080
